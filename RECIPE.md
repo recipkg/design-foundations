@@ -5,7 +5,7 @@ format = "recipkg/1"
 
 [package]
 name = "design-foundations"
-version = "0.1.0"
+version = "0.1.1"
 kind = "software"
 description = "可复用的产品界面设计、交互、响应式与无障碍验收合同。"
 entry = "BUILD_PROMPT.md"
